@@ -2,37 +2,38 @@ name: Mise à jour automatique des prix
 
 on:
   schedule:
-    - cron: '0 8,18 * * *'
-  workflow_dispatch:
+    - cron: '0 8,18 * * *'  # 9h et 19h (Maroc)
+  workflow_dispatch:         # Déclenchement manuel
+
+# Permissions essentielles pour que l'action puisse écrire
+permissions:
+  contents: write
 
 jobs:
   update:
     runs-on: ubuntu-latest
-    
     steps:
-    - name: Récupérer le code
-      uses: actions/checkout@v4
-      with:
-        token: ${{ secrets.PAT_TOKEN }}
-    
-    - name: Installer Python
-      uses: actions/setup-python@v5
-      with:
-        python-version: '3.10'
-    
-    - name: Créer les dossiers
-      run: mkdir -p data/raw data/processed
-    
-    - name: Installer dépendances
-      run: pip install requests pandas
-    
-    - name: Lancer extraction
-      run: python src/extract.py
-    
-    - name: Commit et push
-      run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git add data/
-        git diff --staged --quiet || git commit -m "🔄 Mise à jour auto des prix"
-        git push
+      - name: 📥 Récupérer le code
+        uses: actions/checkout@v4
+        with:
+          # Utilise le token que tu as créé pour pouvoir pousser
+          token: ${{ secrets.PAT_TOKEN }}
+
+      - name: 🐍 Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: 📦 Installer les dépendances
+        run: pip install requests pandas
+
+      - name: 🚀 Lancer l'extraction
+        run: python src/extract.py
+
+      - name: 💾 Commit et push automatique
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add data/
+          git diff --staged --quiet || git commit -m "🔄 Mise à jour auto des prix - $(date '+%Y-%m-%d %H:%M')"
+          git push
