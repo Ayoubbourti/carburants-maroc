@@ -1,0 +1,350 @@
+id,nom,enseigne,adresse,ville,latitude,longitude,gasoil,essence,date_extraction
+1,TotalEnergies DAR CHEMS,TotalEnergies,"Bd de la Grande Ceinture, Casablanca 20570",Casablanca,33.5827436,-7.5588149,10.0,12.76,2026-04-23T09:21:25.539523
+2,Station Shell,Shell,Ait Ishaq، Boulevard Aïn Taoujtate، Casablanca 20250,Casablanca,33.5731104,-7.5898434,15.67,5.0,2026-04-23T09:21:25.539549
+3,OLA ENERGY MASSIRA,OLA Energy,"AV MohV, ROUTE DE CASABLANCA, Rabat",Casablanca,33.975408,-6.878484,15.57,15.0,2026-04-23T09:21:25.539557
+4,OLA ENERGY RADIO,OLA Energy,"QUARTIER TSF, ROUTE DE CASABLANCA, Rabat",Casablanca,34.000827,-6.860244,15.5,15.5,2026-04-23T09:21:25.539559
+5,Winxo,Winxo,"X4PJ+J3G Winxo, Av. Hassan II, Rabat",Rabat,33.9865566,-6.8698105,10.0,,2026-04-23T09:21:25.539563
+6,Station Service Afriquia,Afriquia,"Av. Al Melia, Rabat 10100",Rabat,33.9689066,-6.8641802,15.62,,2026-04-23T09:21:25.539566
+7,Station Service Afriquia,Afriquia,"Station Service Afriquia، N1، Km 7 Rte de Rabat, Casablanca 20250",Casablanca,33.6039229,-7.5475017,20.0,21.0,2026-04-23T09:21:25.539569
+8,Afriquia MARCHE DE GROS,Afriquia,"Abdelkader Essahraoui, Av. du 10 Mars 1982, Casablanca 20670",Casablanca,33.5509059,-7.5516237,20.0,17.0,2026-04-23T09:21:25.539572
+9,Station Service Total,TotalEnergies,"G894+PJW Station Service Total, Casablanca",Casablanca,33.5193733,-7.6934299,,,2026-04-23T09:21:25.539574
+10,TotalEnergies ALMA,TotalEnergies,"185 Bd de Bordeaux, Casablanca 20250",Casablanca,33.5992704,-7.6351877,,,2026-04-23T09:21:25.539577
+11,Station Petrom,Petromin,"H9PC+954 Station Petrom, Casablanca 20250",Casablanca,33.58588,-7.6295405,12.0,10.0,2026-04-23T09:21:25.539579
+12,TotalEnergies Racine,TotalEnergies,"Rond Point, Bd Mohammed Zerktouni, Casablanca 20250",Casablanca,33.5906163,-7.6359808,,,2026-04-23T09:21:25.539581
+13,Station-service TotalEnergies Grande Ceinture,TotalEnergies,"Angle Bd de la Grande Ceinture, Casablanca 20250",Casablanca,33.5889332,-7.5454911,,,2026-04-23T09:21:25.539584
+14,Station Shell El Manar,Shell,"Bd Brahim Roudani, Casablanca 20100",Casablanca,33.577723,-7.637705,,11.0,2026-04-23T09:21:25.539586
+15,TotalEnergies VELODROME,TotalEnergies,"Bd Moulay Rachid, Casablanca 20250",Casablanca,33.5893929,-7.6487652,14.51,,2026-04-23T09:21:25.539588
+16,TotalEnergies AL MADINA,TotalEnergies,"Bd Moulay Idriss I, Casablanca 20250",Casablanca,33.5748492,-7.6102065,,10.86,2026-04-23T09:21:25.539592
+17,Station d'essence Shell Feth,Shell,"H9JG+X89 Station d'essence Shell Feth, Casablanca 20250",Casablanca,33.5824169,-7.6241523,,,2026-04-23T09:21:25.539594
+18,Station Shell,Shell,"Av. 2 Mars, Casablanca 20250",Casablanca,33.5663547,-7.6095628,15.0,,2026-04-23T09:21:25.539597
+19,Shell Doumer,Shell,"Avicenne / Alexandre 1Er، Boulevard Abdelkrim Al Khattabi, Casablanca 20250",Casablanca,33.5867117,-7.6491851,,,2026-04-23T09:21:25.539600
+20,TotalEnergies CITEE DJEMAA,TotalEnergies,"Bd Commandant Driss Al Harti, Casablanca",Casablanca,33.5482294,-7.5733595,,,2026-04-23T09:21:25.539602
+21,TotalEnergies ROUTE DU SUD,TotalEnergies,"Bd Brahim Roudani, Casablanca",Casablanca,33.57218,-7.64222,,,2026-04-23T09:21:25.539604
+22,TotalEnergies AL AMAL,TotalEnergies,"Km 42, TotalEnergies AL AMAL, Boulevard Emille Zola, Route Azemmour, Casablanca 20250",Casablanca,33.5950675,-7.594424,,,2026-04-23T09:21:25.539607
+23,Station Service Shell,Shell,"Rte d'El Jadida, Casablanca",Casablanca,33.558295,-7.6449069,,,2026-04-23T09:21:25.539609
+24,TotalEnergies EL FARAH,TotalEnergies,"Bd de la Grande Ceinture, Casablanca 20320",Casablanca,33.5664034,-7.5849457,,,2026-04-23T09:21:25.539611
+25,TotalEnergies M'DAKRA,TotalEnergies,"Bd Oqba Bnou Nafii, Casablanca 20670",Casablanca,33.5763401,-7.5487707,,,2026-04-23T09:21:25.539613
+26,TotalEnergies RELAIS CHAOUIA,TotalEnergies,"vers Marrakech, Bd El Fida PK 35, Casablanca 20320",Casablanca,33.5730992,-7.589834,,,2026-04-23T09:21:25.539615
+27,TotalEnergies Liberté,TotalEnergies,"345 Bd Oqba Bnou Nafii, Casablanca 20250",Casablanca,33.5808449,-7.5643726,,,2026-04-23T09:21:25.539618
+28,TotalEnergies MY DRISS,TotalEnergies,"Av. 2 Mars, Bd Moulay Idriss I, Casablanca 20250",Casablanca,33.572108,-7.6141252,,,2026-04-23T09:21:25.539620
+29,Shell Station Service Flahi,Shell,"Shell Station Service Flahi، Avenue Khaider Ben Abdellah، Av C, Casablanca 20250",Casablanca,33.5738118,-7.5541726,,,2026-04-23T09:21:25.539623
+30,TotalEnergies Al Massira,TotalEnergies,"87 Bd Al Massira Al Khadra, Casablanca 20100",Casablanca,33.5870654,-7.6412924,,,2026-04-23T09:21:25.539626
+31,TotalEnergies Route de Rabat,TotalEnergies,"JF32+52G TotalEnergies Route de Rabat, Casablanca 20250",Casablanca,33.602943,-7.5499078,12.8,,2026-04-23T09:21:25.539629
+32,station d'essence Shell,Shell,"H9V5+VRH station d'essence Shell, Casablanca 20250",Casablanca,33.5946982,-7.6403754,,,2026-04-23T09:21:25.539631
+33,Station Service Ziz,Autre,"H978+CFJ Station Service Ziz, Casablanca",Casablanca,33.5635822,-7.6338485,,,2026-04-23T09:21:25.539633
+34,TotalEnergies EL GHOUROUB,TotalEnergies,"61 Bd de Bordeaux, Casablanca 20250",Casablanca,33.5972477,-7.6290221,,,2026-04-23T09:21:25.539636
+35,Station Shell Essalam,Shell,"19 Av. Pasteur, Casablanca 20250",Casablanca,33.596392,-7.598669,,,2026-04-23T09:21:25.539638
+36,PLATINIUM SERVICES AUTO,Autre,N° 44 Rue 177 GR I - Oulfa Casablanca blanca,Casablanca,33.5521001,-7.6770715,,,2026-04-23T09:21:25.539641
+37,TotalEnergies RIVIERA,TotalEnergies,"Rue Omar Al Khayam, Rte d'El Jadida, Casablanca 20250",Casablanca,33.5681994,-7.6447303,,,2026-04-23T09:21:25.539643
+38,Station service Total,TotalEnergies,"HF29+RWJ Station service Total, Casablanca",Casablanca,33.5520751,-7.5302485,,,2026-04-23T09:21:25.539645
+39,Station-service Shell,Shell,"Boulevard Ibn Tachfine, Boulevard Mohamed V, Casablanca 20250",Casablanca,33.5876554,-7.5987377,,,2026-04-23T09:21:25.539647
+40,Station Service AM Petro Service,Autre,29 Rue Chahrour، Casablanca 20250,Casablanca,33.5610404,-7.646704,,,2026-04-23T09:21:25.539650
+41,OLA ENERGY 2000 SIDI OTHMANE,OLA Energy,"Boulevard Driss EL Harti, Casablanca 20670",Casablanca,33.554055,-7.562783,,,2026-04-23T09:21:25.539653
+42,TotalEnergies ETTAJ,TotalEnergies,"Boulevard Ibn Al Ouanane, Rue Marinie, Casablanca 20250",Casablanca,33.595597,-7.5638082,,,2026-04-23T09:21:25.539655
+43,Station Shell Oulad Hriz,Shell,"Boulevard Mohammed VI, Route Mediouna, Casablanca 20100",Casablanca,33.568175,-7.596221,,,2026-04-23T09:21:25.539659
+44,Station de Service Winxo,Winxo,"H9X9+FGR Station de Service Winxo, Bd de Bordeaux, Casablanca 20250",Casablanca,33.5987497,-7.6312263,,,2026-04-23T09:21:25.539662
+45,Station Shell,Shell,"Station Shell، Boulevard Mohammed VI، Route Mediouna, Casablanca 20000",Casablanca,33.5453807,-7.5836025,,,2026-04-23T09:21:25.539665
+46,Station Shell,Shell,"Station Shell، Boulevard de la Grande Ceinture، Omar Ibn Khattab, Casablanca 20320",Casablanca,33.567662,-7.582276,,,2026-04-23T09:21:25.539668
+47,Station Service Winxo Avenir,Winxo,"H944+V25 Station Service Winxo Avenir, Casablanca 20000",Casablanca,33.5571477,-7.6448784,,,2026-04-23T09:21:25.539670
+48,AZNAG,Autre,"Bd de Bordeaux, Casablanca 20250",Casablanca,33.5994138,-7.6351742,,,2026-04-23T09:21:25.539672
+49,TotalEnergies VILLE NOUVELLE,TotalEnergies,"Cité Nouvelle de, Av. du 10 Mars 1982 Tranche D, Casablanca 20670",Casablanca,33.5567056,-7.5596302,,,2026-04-23T09:21:25.539675
+50,Station Shell,Shell,"Bd Mohamed Zerktouni, Casablanca 20250",Casablanca,33.6012397,-7.6394591,,,2026-04-23T09:21:25.539679
+51,TotalEnergies ABDELMOUMEN,TotalEnergies,"212 Bd Abdelmoumen, Casablanca 20250",Casablanca,33.572989,-7.6261113,,,2026-04-23T09:21:25.539681
+52,Station Service Afriquia,Afriquia,Douar، A1 Autoroute De Contournement De Casablanca، Casablanca 20260,Casablanca,33.5111955,-7.610025,,,2026-04-23T09:21:25.539684
+53,TotalEnergies MOUSTAKBAL,TotalEnergies,"868 Bd Mohammed VI, Casablanca 20250",Casablanca,33.5685203,-7.5962642,,,2026-04-23T09:21:25.539687
+54,Station Service Petromin Oils,Petromin,"G9XG+QR8 Station Service Petromin Oils, Rte de Taddart, Casablanca",Casablanca,33.5494116,-7.6229323,,,2026-04-23T09:21:25.539689
+55,TotalEnergies AIN SEBAA,TotalEnergies,"Pk 7, TotalEnergies AIN SEBAA, Rte de Rabat, Casablanca 20400",Casablanca,33.6039605,-7.5448664,,,2026-04-23T09:21:25.539692
+56,OLA ENERGY CENTRE CASA,OLA Energy,302 Boulevard Mohamed V، Casablanca 20250,Casablanca,33.593372,-7.603382,,,2026-04-23T09:21:25.539720
+57,Station Shell,Shell,"Rte d'El Jadida, Casablanca 20000",Casablanca,33.5579409,-7.6441428,,,2026-04-23T09:21:25.539723
+58,Station shell Californie,Autre,"Prefecture Des Arrondissements، Av. Taddart, Casablanca",Casablanca,33.535334,-7.617007,,16.69,2026-04-23T09:21:25.539726
+59,TotalEnergies ZI AIN SEBAA,TotalEnergies,"Q.I Oukacha, Rue El Haouza, Casablanca 20250",Casablanca,33.608013,-7.5579004,,,2026-04-23T09:21:25.539729
+60,Shell Station Taddart,Shell,"Route de Taddart, Casablanca 20000",Casablanca,33.556148,-7.624233,14.5,,2026-04-23T09:21:25.539731
+61,Station Service Ziz,Autre,"H9FM+HPV Station Service Ziz, Av. 2 Mars, Casablanca 20250",Casablanca,33.5739976,-7.615717,10.0,,2026-04-23T09:21:25.539733
+62,Station Winxo,Winxo,"HCP2+569 Station Winxo, Casablanca 20250",Casablanca,33.5854073,-7.5993894,,,2026-04-23T09:21:25.539736
+63,Shell station,Shell,"Bd Oqba Bnou Nafii, Casablanca 20250",Casablanca,33.5804278,-7.5613591,,,2026-04-23T09:21:25.539738
+64,TotalEnergies OULED ZIANE,TotalEnergies,"Bd Ibn Tachfine, Casablanca 20320",Casablanca,33.5851644,-7.5753915,,,2026-04-23T09:21:25.539740
+65,Station Service Afriquia,Afriquia,"Station Service Afriquia، Centre Commercial، Rue du Sergent Azdam Driss, Bd Ibn Tachfine, Casablanca 20250",Casablanca,33.585151,-7.5927253,15.0,,2026-04-23T09:21:25.539903
+66,Shell Oasis,Shell,"Rte d'El Jadida, Casablanca 20410",Casablanca,33.566582,-7.64466,,,2026-04-23T09:21:25.539907
+67,Station Service Winxo,Winxo,"H9GR+X35 Station Service Winxo, Casablanca 20250",Casablanca,33.577377,-7.609768,,,2026-04-23T09:21:25.539909
+68,Station Total Mamounia,TotalEnergies,"Rue Bachir Ibrahimi, Casablanca 20250",Casablanca,33.5825093,-7.6021645,,,2026-04-23T09:21:25.539911
+69,Station Shell,Shell,"Driss 1، Bd Abdelmoumen, Casablanca 20250",Casablanca,33.5718725,-7.6256385,,,2026-04-23T09:21:25.539916
+70,Station Service Petromin Oils,Petromin,"HF67+683 Station Service Petromin Oils, Av. Abdelkader Essahraoui, Casablanca 20670",Casablanca,33.5605069,-7.5366957,,,2026-04-23T09:21:25.539919
+71,TotalEnergies SIDI MAAROUF,TotalEnergies,"Centre Quartier, Av. Abou Bakr el Kadiri, Km7 Rte de Bouskoura, Casablanca 20280",Casablanca,33.515828,-7.6549907,15.5,,2026-04-23T09:21:25.539921
+72,Station petrom,Autre,"JF5H+MGP Station petrom, Casablanca 20250",Casablanca,33.6092041,-7.5211588,,,2026-04-23T09:21:25.539924
+73,TotalEnergies AIN MAAZI,TotalEnergies,"28 Bd de la Résistance, Casablanca 20250",Casablanca,33.5948333,-7.6037479,,,2026-04-23T09:21:25.539926
+74,Station shell,Autre,"HCMQ+XQG Station shell, Bd Zouhair Mohamed Najjar, Casablanca 20670",Casablanca,33.5849382,-7.5605427,,,2026-04-23T09:21:25.539928
+75,Station winxo وينكسو,Autre,Casablanca 20250,Casablanca,33.5805516,-7.5637275,,,2026-04-23T09:21:25.539931
+76,ALLO NORA,Autre,"84 Bd Moulay Idriss I, Casablanca 20250",Casablanca,33.5724398,-7.617519,,,2026-04-23T09:21:25.539934
+77,TotalEnergies GARAGE ES SAADA,TotalEnergies,"Industrielle, Rue Ecole, Casablanca 20000",Casablanca,33.5464661,-7.5912395,,,2026-04-23T09:21:25.539936
+78,Station Service Petromin Oils,Petromin,Casablanca 20670,Casablanca,33.5652929,-7.5568071,12.94,13.94,2026-04-23T09:21:25.539939
+79,Station Shell,Shell,"296 Bd El Fida, Casablanca 20250",Casablanca,33.5691431,-7.6032721,,,2026-04-23T09:21:25.539941
+80,STATION DAKAR,Autre,"rond point chimicolor, 112 Bd de la Résistance, Casablanca 14383",Casablanca,33.5900651,-7.6038946,,,2026-04-23T09:21:25.539944
+81,station shell Grande Route,Autre,"P3006, Casablanca 20250",Casablanca,33.6009802,-7.5144997,,,2026-04-23T09:21:25.539946
+82,Espace faidi,Autre,"Unnamed Road, Casablanca, 20250",Casablanca,33.5659463,-7.562771,,,2026-04-23T09:21:25.539949
+83,Station Shell,Shell,Boulevard Emile Zola، Casablanca 20000,Casablanca,33.585938,-7.584406,,,2026-04-23T09:21:25.539953
+84,Station Service Afriquia,Afriquia,"Bd Moulay Slimane, Casablanca 20290",Casablanca,33.6108424,-7.5634504,,,2026-04-23T09:21:25.539955
+85,Afriquia GRANDE CEINTURE I,Afriquia,"120 Bd de la Grande Ceinture, Casablanca 20250",Casablanca,33.5941606,-7.5451923,,,2026-04-23T09:21:25.539958
+86,station service Petromin Hay Al Inara,Petromin,"GCM2+HJ6 station service Petromin Hay Al Inara, Casablanca",Casablanca,33.5339188,-7.5984973,,,2026-04-23T09:21:25.539960
+87,Station TOTAL - Attacharouk,Autre,"HFCC+W7C Station TOTAL - Attacharouk, Bd Oqba Bnou Nafii, Casablanca 20402",Casablanca,33.5723028,-7.529355,,,2026-04-23T09:21:25.539963
+88,TotalEnergies ROCHES NOIRES,TotalEnergies,"Boulevard de l, Bd Moulay Slimane, Casablanca 20290",Casablanca,33.599856,-7.5886286,,,2026-04-23T09:21:25.539965
+89,Station service Shell AlYassir (Electrique véhicule),Shell,"N1, Casablanca 20250",Casablanca,33.5929405,-7.5984936,,,2026-04-23T09:21:25.539967
+90,Station Petrom,Petromin,"HC4G+9WQ Station Petrom, Casablanca",Casablanca,33.5559524,-7.5726525,,,2026-04-23T09:21:25.539969
+91,Station Shell Des Stades (Ahmed Kessab),Shell,"400 Route El Jadida, Casablanca 20100",Casablanca,33.5583749,-7.6449509,,,2026-04-23T09:21:25.539972
+92,Station Service Afriquia,Afriquia,"Station Service Afriquia، Cidana Ex Usine De Cirage, Bd Moulay Ismaïl, Casablanca 20290",Casablanca,33.5996046,-7.5699628,,,2026-04-23T09:21:25.539975
+93,Station PETROM el amane,Autre,"HCJP+5PQ Station PETROM el amane, Daourat Mdakra, Casablanca 20670",Casablanca,33.5804625,-7.5631267,,,2026-04-23T09:21:25.539977
+94,Petromin Station Taddart,Petromin,"route taddert hay bachkou ss bachkou 20000 casablanca el maarif maroc, Casablanca 20000",Casablanca,33.5558873,-7.6237322,,,2026-04-23T09:21:25.539980
+95,Winxo,Winxo,"H9P8+RXV Winxo, Bd Mohammed Zerktouni, Casablanca 20250",Casablanca,33.5871187,-7.6325664,,,2026-04-23T09:21:25.539982
+96,Station Winxo Les Allies,Winxo,"H9QR+VP8 Station Winxo Les Allies, Boulevard Mohamed Smiha, Casablanca 20250",Casablanca,33.5896542,-7.6081704,,,2026-04-23T09:21:25.539986
+97,Station Shell,Shell,"Bd Moulay Ismaïl, Casablanca 20250",Casablanca,33.5982359,-7.5759235,,,2026-04-23T09:21:25.539989
+98,TotalEnergies PALMIERS,TotalEnergies,"Rue Mohamed Bahi, Angle Bd 9 Avril, Casablanca",Casablanca,33.5807542,-7.6318209,,,2026-04-23T09:21:25.539991
+99,Station Service inov,Autre,"G83R+CC2 Station Service inov, Casablanca",Casablanca,33.5035119,-7.6589704,,,2026-04-23T09:21:25.539994
+100,Station Service Afriquia,Afriquia,"Boulevard Mohamed Zefzaf Quartier, Casablanca 20400",Casablanca,33.5885465,-7.4987788,,,2026-04-23T09:21:25.539997
+101,Station Service Afriquia Panoramique,Afriquia,"Angle Boulevard Al Houceima_Et, Bd Panoramique, Casablanca",Casablanca,33.5498585,-7.6158781,15.0,,2026-04-23T09:21:25.540000
+102,Station Service Afriquia,Afriquia,"120 Bd de la Grande Ceinture, Casablanca 20590",Casablanca,33.5955974,-7.5451633,,,2026-04-23T09:21:25.540002
+103,العجلات.سباتة. جميلة.5.شارع.الداخلة.رقم.546.البيضاء,Autre,"rue dakhla n' 546 sbata Djemaa, Casablanca",Casablanca,33.5468948,-7.571254,6.0,,2026-04-23T09:21:25.540005
+104,Station Service Afriquia,Afriquia,"Bd de la Résistance, Casablanca 20250",Casablanca,33.5838726,-7.6117361,,,2026-04-23T09:21:25.540008
+105,Station Service Afriquia,Afriquia,"Bd Abdelmoumen, Casablanca 20250",Casablanca,33.5661558,-7.6267057,,,2026-04-23T09:21:25.540010
+106,Station Oilibya,Autre,"Bd Amr Ibnou Ass, Casablanca 20250",Casablanca,33.5980795,-7.5819343,,,2026-04-23T09:21:25.540012
+107,Afriquia OTHMANIA,Afriquia,"Bd Abou Houraïra, Casablanca 20450",Casablanca,33.559228,-7.576167,,,2026-04-23T09:21:25.540014
+108,Total Maroc (Standard),TotalEnergies,"Sidi Belyout Quartier Alsace Orraine Boulevard Zer, Nador, Casablanca 20100",Casablanca,33.596457,-7.615478,,,2026-04-23T09:21:25.540017
+109,Station Petrom,Petromin,"14 Rue Capitaine Bousserghine Hammadi, Casablanca 20100",Casablanca,33.5880026,-7.6020582,,,2026-04-23T09:21:25.540021
+110,Luxeauto spa,Autre,"462 Av. du 6 Novembre 1975, Casablanca",Casablanca,33.5516499,-7.5810862,,,2026-04-23T09:21:25.540023
+111,PRISSING MODERNE,Autre,"Derb Foukara rue17, N1, Casablanca 20250",Casablanca,33.5652806,-7.6058526,,,2026-04-23T09:21:25.540025
+112,Shell,Shell,"Ile De France، Rue d'Ifrane, Casablanca 20250",Casablanca,33.5732486,-7.6558154,,,2026-04-23T09:21:25.540028
+113,Station Service Afriquia,Afriquia,"Station Service Afriquia، Av. Abou Bakr el Kadiri Centre Commercial Bouskoura Sidi Maârouf Casablanca 9, Casablanca 20103",Casablanca,33.5371293,-7.6424781,,,2026-04-23T09:21:25.540031
+114,Station Service Afriquia,Afriquia,"Rte de Chabbou, Casablanca 20250",Casablanca,33.5965325,-7.5307635,,,2026-04-23T09:21:25.540033
+115,Shell Gas station,Shell,"Bd Ibn Al Ouanane, Casablanca 20250",Casablanca,33.5950589,-7.5691552,,,2026-04-23T09:21:25.540035
+116,"Station Shell Hassania, Hay Hassani.",Shell,"Croisement Boulevard Sidi Abderrahmane et, Bd Ibnou Sina, Casablanca 20204",Casablanca,33.5714223,-7.6688121,,15.51,2026-04-23T09:21:25.540038
+117,Station-service Winxo,Winxo,"H9MG+5MX Station-service Winxo, Casablanca 20250",Casablanca,33.582975,-7.6232692,,,2026-04-23T09:21:25.540040
+118,Station Ola,Autre,"GCV8+WQG Station Ola, Bd Mohammed VI, Casablanca",Casablanca,33.5448177,-7.5830469,14.0,,2026-04-23T09:21:25.540042
+119,Station winxo bizancy,Autre,"2 Rue de Rocroy, Casablanca 20250",Casablanca,33.5968476,-7.5956039,,,2026-04-23T09:21:25.540045
+120,Station Shell Moulay Youssef,Shell,"Bd Moulay Youssef, Casablanca 20100",Casablanca,33.6016807,-7.6331372,,,2026-04-23T09:21:25.540047
+121,Station Service Winxo,Winxo,"1 Rue Marrakech Magazin 4 Residence Al Firdaws, Tanger",Tanger,35.769607,-5.804434,12.0,,2026-04-23T09:21:25.540050
+122,Station Total will,TotalEnergies,"Av. Al Qods, Tangier 90060",Autre,35.73536,-5.801406,,,2026-04-23T09:21:25.540057
+123,Shell,Shell,Boulevard Mohamed V، Tangier 90000,Autre,35.777432,-5.80531,,,2026-04-23T09:21:25.540065
+124,Shell,Shell,"45 Av. Hassan II, Tangier 90000",Autre,35.782608,-5.818425,,,2026-04-23T09:21:25.540070
+125,Station Total will,TotalEnergies,"Av. Moulay Rachid, Tangier 90090",Autre,35.743001,-5.866713,,,2026-04-23T09:21:25.540075
+126,Shell gas station,Shell,"129 Rue de Fès, Tangier 90060",Autre,35.77232,-5.813952,,,2026-04-23T09:21:25.540083
+127,Total,TotalEnergies,"Place de la Ligue Arabe, Av. Marrakech, Tangier 90060",Marrakech,35.769142,-5.803961,,,2026-04-23T09:21:25.540086
+128,Afriquia MARJANE TANGER,Afriquia,"Afriquia MARJANE TANGER، Commune Urbaine De Tanger، N1, Tangier 90060",Tanger,35.747843,-5.842519,15.52,,2026-04-23T09:21:25.540090
+129,محطة زيز,Autre,"P4HC+WWC محطة زيز، Avenue Moulay Ismail, Tanger",Tanger,35.729814,-5.87772,,,2026-04-23T09:21:25.540094
+130,Shell,Shell,"Shell، Av. Al Farabi, Dcheira El Jihadia 80000",Autre,30.392748,-9.532403,,,2026-04-23T09:21:25.540104
+131,Afriquia MARINA AGADIR,Afriquia,"Afriquia MARINA AGADIR، Rue Bourguignon, Av. Mohammed V, Agadir 80000",Agadir,30.426823,-9.61605,,,2026-04-23T09:21:25.540108
+132,TotalEnergies Relais Agadir,TotalEnergies,"Pk 7, Avenue Mohammedia, Route d'Essaouira, Agadir",Agadir,30.428069,-9.563365,,,2026-04-23T09:21:25.540111
+133,Station Service Petromin Oils,Petromin,"CC6F+RGQ Station Service Petromin Oils, Ave Abderrahim Bouabid, Agadir 80000",Agadir,30.412083,-9.576132,,,2026-04-23T09:21:25.540116
+134,محطة بتروم,Autre,"9FRP+79H محطة بتروم، Av. Arraha, Agadir 80000",Agadir,30.390685,-9.514015,12.0,,2026-04-23T09:21:25.540120
+135,Afriquia TADDART,Afriquia,"Afriquia TADDART، Taddard Marrakech، N1، 40 Rp, Agadir 80000",Agadir,30.432865,-9.574608,,,2026-04-23T09:21:25.540125
+136,Station Service Winxo,Winxo,"CCG2+769 Station Service Winxo, Rue Des Nations Unies, Agadir 80000",Agadir,30.425652,-9.599387,,,2026-04-23T09:21:25.540130
+137,محطة طوطال,Autre,"محطة طوطال، Rue de la Foire, Av. Hassan II, Agadir 80000",Agadir,30.418126,-9.596349,,,2026-04-23T09:21:25.540134
+138,Station Service Winxo,Winxo,"Bd Abderrahim Bouabid, Agadir 80000",Agadir,30.41574,-9.566986,,11.0,2026-04-23T09:21:25.540137
+139,محطة بتروم,Autre,"9FXF+FH6 محطة بتروم، N1, Agadir 80000",Agadir,30.398657,-9.52612,,,2026-04-23T09:21:25.540141
+140,Afriquia MARJANE AGADIR,Afriquia,"Afriquia MARJANE AGADIR، Secteur J Commune Urbaine، N10 Lotissement Founty, Agadir 80000",Agadir,30.396272,-9.581753,,,2026-04-23T09:21:25.540146
+141,Shell,Shell,"Shell، Avenue Hassan II، Angle Boulevard Med V, Agadir 80000",Agadir,30.408325,-9.588632,,,2026-04-23T09:21:25.540150
+142,Shell,Shell,"Shell، Avenue Hassan II، Angle Rue Chouhada, Agadir 80000",Agadir,30.425079,-9.605935,,,2026-04-23T09:21:25.540154
+143,Afriquia ALQODS,Afriquia,"Afriquia ALQODS، National Rte 1، Boulevard 358, Agadir 80000",Agadir,30.421168,-9.554536,,,2026-04-23T09:21:25.540159
+144,TotalEnergies RELAIS AGADIR,TotalEnergies,"Sortie D'agadir, National Route 1, Avenue Ibn Alhaitame، Agadir 80070",Agadir,30.396986,-9.523893,,,2026-04-23T09:21:25.540163
+145,OLA ENERGY ARFAA,OLA Energy,"B.P.366 Avenue Abderrahim Bouabid, Agadir 80000",Agadir,30.374454,-9.505063,,,2026-04-23T09:21:25.540166
+146,محطة وينكسو,Autre,"CC65+VH3 محطة وينكسو، Bd Hassan II, Agadir 80000",Agadir,30.412131,-9.591082,,,2026-04-23T09:21:25.540170
+147,Shell,Shell,"Shell، Vers Tikiouine، National Route 1 Route Express, Agadir 80000",Agadir,30.391411,-9.516626,,,2026-04-23T09:21:25.540174
+148,Afriquia AGADIR VILLE,Afriquia,"Boulevard Mohammed Cheikh Saadi, Agadir 80000",Agadir,30.422304,-9.584256,,,2026-04-23T09:21:25.540177
+149,Station Petrom,Petromin,"C9FX+53F Station Petrom, Bd Hassan II, Agadir 80000",Agadir,30.422937,-9.602344,,,2026-04-23T09:21:25.540182
+150,TotalEnergies RIAD,TotalEnergies,"219 Avenue El Qods, Meknès 50030",Meknès,33.887006,-5.569865,,,2026-04-23T09:21:25.540189
+151,Shell,Shell,Shell، R718 Route De Rabat، Meknès 50040,Rabat,33.888911,-5.582833,12.1,,2026-04-23T09:21:25.540192
+152,Afriquia MARJANE MEKNES,Afriquia,"Afriquia MARJANE MEKNES، Guerroune Nord Commune Rurale Ait Oualal, P7017, Meknes 50050",Autre,33.855555,-5.579914,,,2026-04-23T09:21:25.540205
+153,Total Petrol Station Sidi Said,TotalEnergies,"R718 Route de Rabat, Meknes 50030",Rabat,33.888305,-5.584603,,,2026-04-23T09:21:25.540208
+154,station-service TotalEnergies Ismailiya,TotalEnergies,Meknès,Meknès,33.873016,-5.54073,,,2026-04-23T09:21:25.540211
+155,Shell,Shell,"Shell، R718, Meknès 50000",Meknès,33.890304,-5.579053,,,2026-04-23T09:21:25.540216
+156,Station Service Ziz,Autre,"N13, Meknès",Meknès,33.851391,-5.526598,,,2026-04-23T09:21:25.540220
+157,Shell Station,Shell,"Rue Ibn Khaldoun, 9 Rue Bandang, Meknes 50000",Autre,33.89651,-5.542334,,,2026-04-23T09:21:25.540225
+158,Station winxo,Autre,"VCVF+2QV Station winxo, Meknès",Meknès,33.892625,-5.575588,,,2026-04-23T09:21:25.540230
+159,طوطال,Autre,"طوطال، Av. des F.A.R, Meknès 50010",Meknès,33.898001,-5.53358,,,2026-04-23T09:21:25.540235
+160,Station Shell,Shell,"VCHQ+H2 Station Shell, Meknes",Autre,33.878937,-5.562437,,,2026-04-23T09:21:25.540240
+161,Station Service Petrom,Petromin,"WG25+XX7 Station Service Petrom, Meknes",Autre,33.902421,-5.490085,,,2026-04-23T09:21:25.540245
+162,Afriquia OUISSLANE 2,Afriquia,"Rte Principale Fès Meknès, Meknes 50045",Meknès,33.902695,-5.491989,10.0,,2026-04-23T09:21:25.540252
+163,Station Petrom,Petromin,"VCR3+2XR Station Petrom, Meknès",Meknès,33.890114,-5.595107,,,2026-04-23T09:21:25.540256
+164,SHELL,Autre,"N13, Meknes 50000",Autre,33.845948,-5.524068,,,2026-04-23T09:21:25.540261
+165,Station Ziz,Autre,"Ave Allal El Fassi, Meknes",Autre,33.901428,-5.53346,,,2026-04-23T09:21:25.540266
+166,Station Service Ziz,Autre,"RFRH+J4R Station Service Ziz, Rte d'Ifrane, Meknès",Meknès,33.84162,-5.522222,,,2026-04-23T09:21:25.540272
+167,TotalEnergies IDRISSIA,TotalEnergies,"14 Ave Idriss II, Meknès 50000",Meknès,33.897202,-5.548307,,,2026-04-23T09:21:25.540276
+168,TotalEnergies GHABA,TotalEnergies,"Bd Moulay Youssef, Meknès 50000",Meknès,33.89319,-5.542469,,,2026-04-23T09:21:25.540280
+169,OLA ENERGY HABOUS,OLA Energy,"Av. des F.A.R, Meknès",Meknès,33.898223,-5.53129,,,2026-04-23T09:21:25.540285
+170,TotalEnergies DOUANE,TotalEnergies,"Boulevard de l'Armée Royale, P1, Oujda",Oujda,34.691798,-1.907849,10.0,,2026-04-23T09:21:25.540290
+171,Okay Energy Mansour Dahbi,Autre,"Boulevard Mansour Dahbi, Oujda 60000",Oujda,34.696626,-1.906923,,,2026-04-23T09:21:25.540294
+172,Station Service Shell,Shell,"Station Service Shell، Rue Madina, Rue M Mounaouara, Oujda 60000",Oujda,34.685446,-1.914716,,,2026-04-23T09:21:25.540301
+173,Shell,Shell,"Rue M Mounaouara Bd D'ahfir, Rue M Mounaouara, Oujda 60000",Oujda,34.69284,-1.918324,,,2026-04-23T09:21:25.540304
+174,Shell,Shell,"Shell، Av. Yacoub Al Mansour, Oujda 60000",Oujda,34.666167,-1.897036,,,2026-04-23T09:21:25.540310
+175,Station Service Winxo,Winxo,"M3J8+4P8 Station Service Winxo, Boulevard Mbarek Al Bekkay, Oujda",Oujda,34.680279,-1.933172,,,2026-04-23T09:21:25.540316
+176,Station-service,Autre,"M4XV+V7 Station-service, Oujda",Oujda,34.699635,-1.857033,,,2026-04-23T09:21:25.540319
+177,TotalEnergies AL MAKSSEM,TotalEnergies,"366 Rue Seloum, Oujda 34000",Oujda,34.668611,-1.897939,,,2026-04-23T09:21:25.540323
+178,Station Service Winxo agdal oujda,Winxo,"Bd Brahim Roudani, Oujda 60020",Oujda,34.675153,-1.864058,,,2026-04-23T09:21:25.540326
+179,Afriquia CARREFOUR OUJDA,Afriquia,"Centre Commercial Carrefour، Bd Mohammed VI, Oujda 34000",Oujda,34.660459,-1.906599,,,2026-04-23T09:21:25.540332
+180,Station Service Cepsa,Autre,"M348+P32 Station Service Cepsa, Oujda",Oujda,34.656751,-1.934874,,,2026-04-23T09:21:25.540336
+181,Afriquia,Afriquia,"Afriquia، Boulevard Oued Eddahab, Rue Narjis, Oujda 34000",Oujda,34.689805,-1.87722,,,2026-04-23T09:21:25.540342
+182,TotalEnergies OUJDA,TotalEnergies,"P1, Oujda 34000",Oujda,34.698763,-1.899244,,,2026-04-23T09:21:25.540345
+183,Station Service Total Ibn Tachfine,TotalEnergies,"M3GH+J53 Station Service Total Ibn Tachfine, Boulevard Bir Anzarane, Oujda",Oujda,34.67651,-1.922071,,,2026-04-23T09:21:25.540349
+184,Station Service Total Rocade,TotalEnergies,"Route Saïdia, Oujda",Oujda,34.705157,-1.928979,,,2026-04-23T09:21:25.540353
+185,Shell,Shell,"Shell، Boulevard Hassan II، Boulevard Sidi Yahya, Oujda 60000",Oujda,34.667466,-1.872314,,,2026-04-23T09:21:25.540360
+186,Shell,Shell,"Pk 633.500، Shell، N6 Bp 1, Oujda 60000",Oujda,34.683879,-1.949788,,,2026-04-23T09:21:25.540365
+187,Station Service Shell,Shell,"Rue Ziar, Oujda",Oujda,34.691382,-1.892045,,,2026-04-23T09:21:25.540368
+188,Shell,Shell,"Shell، Rte Al Aounia, Oujda 60000",Oujda,34.699621,-1.876258,,,2026-04-23T09:21:25.540373
+189,TotalEnergies LAZARET,TotalEnergies,"Boulevard Kaddour el ouartassi Centre Ville D'oujda, Quartier, Oujda 34000",Oujda,34.684628,-1.890278,,,2026-04-23T09:21:25.540379
+190,Green Oil,Autre,شارع إبن رشد، Kenitra,Autre,34.266147,-6.615676,,,2026-04-23T09:21:25.540386
+191,محطة إفريقيا,Autre,"محطة إفريقيا، N1, Kénitra",Kénitra,34.28033,-6.539934,,,2026-04-23T09:21:25.540391
+192,SHELL SAFSAF VIVO ENERGY GAS STATION ⛽,Autre,Aire de service، الطريق السيار رقم 1، Kenitra,Autre,34.22874,-6.580977,,,2026-04-23T09:21:25.540401
+193,Samir,Autre,"Rte De Moulay Bousselham, Kenitra",Autre,34.27099,-6.565003,,,2026-04-23T09:21:25.540406
+194,Shell,Shell,"Shell، Avenue Al Istiqlal، Place Istiqlal, Kenitra 14000",Autre,34.262979,-6.581259,14.0,17.0,2026-04-23T09:21:25.540417
+195,Shell Gas Station,Shell,"Centre، Av. Mohamed V, Kenitra 14000",Autre,34.261263,-6.579842,,,2026-04-23T09:21:25.540425
+196,SHELL,Autre,SHELL، Avenue Mohamed V Route Rabat Sortie Kenitra Vers Rabat، 14000,Rabat,34.254901,-6.598556,,,2026-04-23T09:21:25.540428
+197,Afriquia NARJISS,Afriquia,"Afriquia NARJISS، Pk 27+500، A5 Autoroute Kenitra Vers Rabat, Kenitra 14000",Rabat,34.230548,-6.584961,,,2026-04-23T09:21:25.540437
+198,TotalEnergies Mehdiya,TotalEnergies,"Rte de Mehdia, Kenitra 14000",Autre,34.255903,-6.676039,,,2026-04-23T09:21:25.540442
+199,TotalEnergies Avenir,TotalEnergies,"Bd. Mohamed V, Route de Rabat, Kénitra 14000",Rabat,34.252399,-6.602195,,,2026-04-23T09:21:25.540445
+200,Petrom,Petromin,"Av. Mohamed V, Kenitra",Autre,34.267868,-6.561688,,,2026-04-23T09:21:25.540450
+201,Petrom,Petromin,"Av. Moulay Abdelazziz, Kenitra",Autre,34.257582,-6.593075,,,2026-04-23T09:21:25.540457
+202,محطة طوطال,Autre,"6CXW+932 محطة طوطال، Saknia, Avenue El Massira, Boulevard de La Marche Verte, Kénitra 14000",Kénitra,34.248804,-6.554683,,,2026-04-23T09:21:25.540468
+203,"Petrom, El Ghazi gas station",Petromin,"683F+HG4 Petrom, El Ghazi gas station, N1, Kenitra",Autre,34.203885,-6.676186,,,2026-04-23T09:21:25.540474
+204,محطة طوطال,Autre,"محطة طوطال، Rte De Moulay Bousselham, Kénitra 14000",Kénitra,34.270401,-6.565405,,,2026-04-23T09:21:25.540481
+205,Total Rte de Tanger,TotalEnergies,"Total Rte de Tanger، Route، N1 Av. Mohamed V, Kenitra 14000",Tanger,34.269336,-6.560437,,,2026-04-23T09:21:25.540485
+206,Station Service Afriquia,Afriquia,"Entrée Autoroute De Tanger، R405, Kenitra 14000",Tanger,34.240005,-6.571471,15.78,,2026-04-23T09:21:25.540488
+207,TotalEnergies MAAMORA,TotalEnergies,"Avenue Mohamed V, Avenue Mohamed Abdou, Kénitra 14000",Kénitra,34.260495,-6.581743,,,2026-04-23T09:21:25.540495
+208,Afriquia Gas Station,Afriquia,"59 Av. Moulay Abdelazziz, Kenitra 14000",Autre,34.261159,-6.585662,,,2026-04-23T09:21:25.540500
+209,Afriquia AL MAHDIA,Afriquia,"Afriquia AL MAHDIA، Rue 11، Route Lbachaouia, Kenitra 14000",Autre,34.265814,-6.644293,15.53,,2026-04-23T09:21:25.540511
+210,OLA ENERGY MANSOUR,OLA Energy,"BOULEVARD MOULAY ABBAS, Tétouan",Tétouan,35.568472,-5.372917,,,2026-04-23T09:21:25.540516
+211,Station Shell Al Horra,Shell,"Station Shell Al Horra، N2، Al Hourra, Tetouan 93000",Autre,35.559318,-5.447132,,,2026-04-23T09:21:25.540526
+212,Total Petrol Station El Matar,TotalEnergies,"Avenue Abdekhalek Torres, Avenue Avril, Tétouan 90070",Tétouan,35.583745,-5.332514,,,2026-04-23T09:21:25.540533
+213,Shell,Shell,"Shell، Avenue 9 Avril، Km 3 Route Tanger, Tetouan 93000",Tanger,35.564467,-5.379025,14.51,,2026-04-23T09:21:25.540537
+214,Petrom odda,Petromin,"HJCR+Q54 Petrom odda، Avenue des F.A.R, Tetouan Numero 2",Autre,35.571869,-5.359488,,,2026-04-23T09:21:25.540547
+215,Africa Station,Autre,Vers، N13 Route Sebta، Tetouan 90070,Autre,35.604284,-5.334971,,,2026-04-23T09:21:25.540557
+216,Station Service Afriquia,Afriquia,"HM99+QX Station Service Afriquia, Tetouan",Autre,35.569487,-5.330088,,,2026-04-23T09:21:25.540562
+217,Afriquia TETOUAN 1,Afriquia,"Afriquia TETOUAN 1، Entrée De Tétouan، RN 2 Pk 51+350، 4 Km, Tetouan 90070",Tétouan,35.56449,-5.419873,,,2026-04-23T09:21:25.540571
+218,Winxo,Winxo,"HJC7+439 Winxo, Av. Tanger, Tetouan 93020",Tanger,35.570299,-5.387251,,,2026-04-23T09:21:25.540573
+219,Station Service Petrom,Petromin,"JM78+3PP Station Service Petrom, N13, Tétouan",Tétouan,35.612722,-5.333173,,,2026-04-23T09:21:25.540580
+220,TotalEnergies DREAMS,TotalEnergies,"km de la gare routière, N13 Hay Slaoui - rocade Tetouan - RN, 2 à 1, Tetouan 90070",Autre,35.564472,-5.379034,,,2026-04-23T09:21:25.540593
+221,TotalEnergies BADIS,TotalEnergies,"N2 Sortie De Tetouan, Tétouan 93000",Tétouan,35.560017,-5.444244,,,2026-04-23T09:21:25.540598
+222,Station Service TotalEnergies,TotalEnergies,"HJ89+77Q Station Service TotalEnergies, Tétouan",Tétouan,35.5657,-5.381779,,,2026-04-23T09:21:25.540605
+223,Afriquia OUED MARTIL,Afriquia,"Afriquia OUED MARTIL، N13، 18 Rue Sik Al Mandri, Tetouan 90070",Autre,35.56032,-5.369024,,,2026-04-23T09:21:25.540616
+224,Afriquia TETOUAN 2,Afriquia,"Afriquia TETOUAN 2، Vers Tanger، N13 Rp 38، Km4 Sortie De Tétouan, Tetouan 90070",Tanger,35.565705,-5.412752,,,2026-04-23T09:21:25.540620
+225,TotalEnergies ARTISANAT,TotalEnergies,"Av. Hassan I, Tétouan 90070",Tétouan,35.566698,-5.367689,,,2026-04-23T09:21:25.540626
+226,Petromin Oils,Petromin,"HM97+2CX Petromin Oils, Tetouan",Autre,35.567605,-5.336395,,,2026-04-23T09:21:25.540631
+227,TotalEnergies PALMERAS,TotalEnergies,"29 Av. Hassan II, Tétouan 90070",Tétouan,35.568468,-5.380295,,,2026-04-23T09:21:25.540636
+228,Station Service Petrom,Petromin,"HH7F+GJ7 Station Service Petrom, Route Tanger, N2, Tetouan",Tanger,35.56378,-5.425949,12.0,,2026-04-23T09:21:25.540641
+229,Shell sidi driss Tetouan,Shell,"Av. Hassan II, Tétouan",Tétouan,35.568458,-5.379041,,,2026-04-23T09:21:25.540646
+230,Afriquia MARJANE SAFI,Afriquia,"Afriquia MARJANE SAFI، Centre Commercial Marjane، N7A، Route De Marrakech, Safi 46050",Marrakech,32.298077,-9.214081,,14.0,2026-04-23T09:21:25.540652
+231,Shell,Shell,"Shell، Dar Si Aissa، Rue Dar Si Aissa Rp 12 Pk 4 Route Marrakech، Rue, Safi 46000",Marrakech,32.298009,-9.200663,12.0,,2026-04-23T09:21:25.540657
+232,TotalEnergies CITE DE LA MER,TotalEnergies,"R301, TotalEnergies CITE DE LA MER, Qi Route D'essaouira, Safi 46050",Safi,32.243592,-9.2604,,,2026-04-23T09:21:25.540662
+233,Afriquia SAFI 2,Afriquia,"Afriquia SAFI 2، Pk 23 + 800، R P، N2307, Safi 46050",Safi,32.280921,-9.215192,,,2026-04-23T09:21:25.540670
+234,Shell,Shell,"Dar Si Aissa, Rue, Safi 46000",Safi,32.290671,-9.238848,,,2026-04-23T09:21:25.540674
+235,Total service station Sidi Bouzid,TotalEnergies,"Av. Hassan II, Safi 46000",Safi,32.309409,-9.232922,,,2026-04-23T09:21:25.540677
+236,Station Service TotalEnergies,TotalEnergies,Safi 20160,Safi,32.281255,-9.23037,,,2026-04-23T09:21:25.540681
+237,TotalEnergies DJERIFET,TotalEnergies,"Av. Al Massira Al Khadra, Safi 46000",Safi,32.284325,-9.226693,,,2026-04-23T09:21:25.540685
+238,Station Service Petrom Sahel,Petromin,Safi,Safi,32.290716,-9.23744,,,2026-04-23T09:21:25.540689
+239,TotalEnergies,TotalEnergies,"Rue Mecque Place Idriss II, Bd Sidi Mohamed Ben Abdellah, Safi 46050",Safi,32.2907,-9.239962,,,2026-04-23T09:21:25.540693
+240,Total service station Dar Si Aissa,TotalEnergies,"Av. Moulay Youssef, Safi",Safi,32.300458,-9.225133,,,2026-04-23T09:21:25.540711
+241,Afriquia SAFI 1,Afriquia,"Afriquia SAFI 1، P2300 Sise N°5 Route De Had Hrara, Safi 46000",Safi,32.322012,-9.225508,,,2026-04-23T09:21:25.540719
+242,Station-service SHell,Autre,"7QMF+HCX Station-service SHell, Safi",Safi,32.28399,-9.226386,,,2026-04-23T09:21:25.540725
+243,Safi bus station,Autre,"7QQ7+MQQ Safi bus station, Safi",Safi,32.289214,-9.235504,,,2026-04-23T09:21:25.540730
+244,Station Service Ola Energy,Autre,Safi,Safi,32.358414,-9.139437,,,2026-04-23T09:21:25.540733
+245,Afriquia AL OROUBA,Afriquia,"Afriquia AL OROUBA، Rue Ibn Sina Avenue Al Ourouba، Place Idriss Ii, Safi 46050",Safi,32.290671,-9.241216,,,2026-04-23T09:21:25.540743
+246,Station Service Afriquia,Afriquia,"7RW4+MXM Station Service Afriquia, Safi",Safi,32.296491,-9.192073,,,2026-04-23T09:21:25.540747
+247,Station Service Cepsa,Autre,"7R86+MX8 Station Service Cepsa, P2307, Safi",Safi,32.266664,-9.187548,,,2026-04-23T09:21:25.540751
+248,TotalEnergies IDRISS II,TotalEnergies,"Pce Safi, Rue Ibn Sina, Safi 46050",Safi,32.290833,-9.24133,,,2026-04-23T09:21:25.540755
+249,Station Service Shell,Shell,"Av. El Ourouba, Safi 46000",Safi,32.290151,-9.242056,,,2026-04-23T09:21:25.540759
+250,Station Shell ( Escale ),Shell,Mohammedia,Mohammedia,33.691691,-7.394454,,,2026-04-23T09:21:25.540762
+251,Station Service Petrom,Petromin,"Unnamed Road, Mohammédia",Autre,33.667386,-7.405985,,,2026-04-23T09:21:25.540770
+252,Station Shell Mohammedia,Shell,"route de rabat, Bd Hassan II, Mohammedia",Rabat,33.693094,-7.391968,15.48,,2026-04-23T09:21:25.540772
+253,Shell,Shell,"Bd Hassan II, Mohammedia 28800",Mohammedia,33.701488,-7.377351,14.5,,2026-04-23T09:21:25.540778
+254,TotalEnergies DU PARC,TotalEnergies,"Bd de Fès, Mohammédia",Autre,33.708027,-7.397243,,,2026-04-23T09:21:25.540785
+255,Afriquia MARJANE MOHAMMEDIA,Afriquia,"N°101، Afriquia MARJANE MOHAMMEDIA, R.s، Centre Commercial Marjane، Bd Mohamed VI, Mohammedia 28820",Mohammedia,33.708967,-7.349166,,13.98,2026-04-23T09:21:25.540800
+256,Station Service Shell les Orchidées,Shell,Station Shell Marjane، Mohammédia 28800,Autre,33.709233,-7.348782,14.55,,2026-04-23T09:21:25.540809
+257,Station Service Petrom,Petromin,"MJR5+287 Station Service Petrom, Mohammedia",Mohammedia,33.690039,-7.391708,,,2026-04-23T09:21:25.540814
+258,Station Service Afriquia,Afriquia,"Bd Mohamed V, Mohammedia",Mohammedia,33.694538,-7.390955,,,2026-04-23T09:21:25.540818
+259,Yoom Mansouria,Autre,"PMJC+F3Q Yoom Mansouria, Mohammedia",Mohammedia,33.731107,-7.328493,12.8,15.54,2026-04-23T09:21:25.540822
+260,TotalEnergies FEDALA,TotalEnergies,"Bd Sidi Mohamed Ben Abdellah Route Cotière Casa, N9, Mohammédia 28810",Autre,33.676147,-7.422029,,,2026-04-23T09:21:25.540834
+261,Station Service Afriquia,Afriquia,"PJ72+C8W Station Service Afriquia, Port de Mohammedia, Rue Ibn Zohr, Mohammédia",Mohammedia,33.713387,-7.399458,,,2026-04-23T09:21:25.540846
+262,TotalEnergies GARAGE EL ALIA,TotalEnergies,"Bd Hassan II, Mohammédia",Autre,33.696427,-7.387476,,,2026-04-23T09:21:25.540853
+263,Station Service Petrom,Petromin,"MHPX+H9V Station Service Petrom, Mohammedia",Mohammedia,33.68649,-7.401584,,,2026-04-23T09:21:25.540857
+264,Station Service Petromin Oils,Petromin,"MJ47+VC7 Station Service Petromin Oils, Mohammedia",Mohammedia,33.65717,-7.386458,,,2026-04-23T09:21:25.540861
+265,Station Service Yoom,Autre,"résidence andalouss, Mohammédia",Autre,33.664272,-7.399043,,,2026-04-23T09:21:25.540869
+266,TotalEnergies BENI YAKHLEF,TotalEnergies,"Kyada Benikhlef, Rte nationale, N1, Bd de Narjane, Mohammédia 28830",Autre,33.696403,-7.369403,14.48,15.48,2026-04-23T09:21:25.540881
+267,Station Service Winxo,Winxo,"MJV5+VFG Station Service Winxo, Mohammédia",Autre,33.694683,-7.391286,,,2026-04-23T09:21:25.540890
+268,Station Service Petromin Oils,Petromin,"Bd Moulay Rachid, Mohammédia",Autre,33.684714,-7.379197,14.44,,2026-04-23T09:21:25.540899
+269,Afriquia HASSAN 2 MOHAMMEDIA,Afriquia,"Afriquia HASSAN 2 MOHAMMEDIA، Bd Hassan II، Angle Bd Bd Grande Ceinture, Mohammedia 28830",Mohammedia,33.681683,-7.406716,,,2026-04-23T09:21:25.540910
+270,Station totalEnergies,Autre,"6FGJ+V8C Station totalEnergies, Av Khalil Jabran, El Jadida",El Jadida,33.227182,-8.519231,,,2026-04-23T09:21:25.540916
+271,Shell,Shell,"Shell، Autoroute Casa، Av. Varennes, El Jadida 24000",El Jadida,33.241585,-8.498437,,,2026-04-23T09:21:25.540924
+272,TotalEnergies AMGHAR,TotalEnergies,"Sortie, Vers Marrakech, N1, El Jadida 24030",Marrakech,33.203781,-8.49324,,,2026-04-23T09:21:25.540927
+273,Afriquia ACIMA EL JADIDA,Afriquia,"Afriquia ACIMA EL JADIDA، Avenue Ibnou Badis, Av. Brahim Roudani, El Jadida 24030",El Jadida,33.243109,-8.512473,,,2026-04-23T09:21:25.540938
+274,Afriquia DOUKKALA 1,Afriquia,"Afriquia DOUKKALA 1، N1، Ibis, El Jadida 24000",El Jadida,33.244342,-8.490325,,,2026-04-23T09:21:25.540946
+275,Shell Station,Shell,"Shell Station، Avenue Mohamed VI، 22 Place Jamiaa Arabia, El Jadida 24000",El Jadida,33.248957,-8.499037,,,2026-04-23T09:21:25.540956
+276,TotalEnergies RELAIS MAZAGAN,TotalEnergies,"A1 PK 32, TotalEnergies RELAIS MAZAGAN, El Jadida 24000",El Jadida,33.03079,-8.534919,,,2026-04-23T09:21:25.540961
+277,Service Station And Cafee Tangueda,Autre,"6G24+JHV Service Station And Cafee Tangueda, El Jadida 24000",El Jadida,33.201608,-8.493577,,,2026-04-23T09:21:25.540966
+278,Station Service inov,Autre,"5GM5+GFQ Station Service inov, Route de Marrakech, El Jadida",Marrakech,33.183846,-8.491268,,,2026-04-23T09:21:25.540969
+279,Bus station of El Jadida,Autre,"6GV2+Q6P Bus station of El Jadida، 24000, El Jadida 24000",El Jadida,33.244865,-8.499593,,,2026-04-23T09:21:25.540978
+280,Afriquia MARJANE EL JADIDA,Afriquia,Centre Commercial، Avenue Allal Al Fassi، El Jadida 24000,El Jadida,33.224797,-8.529515,,,2026-04-23T09:21:25.540987
+281,Station Service Shell,Shell,"Station Service Shell، Douar Tikni، National Route 1 Sis À Province Et Cercle D, El Jadida 24000",El Jadida,33.205407,-8.493176,,,2026-04-23T09:21:25.541001
+282,Station Service Samir Haouzia,Autre,"5GP5+MHV Station Service Samir Haouzia, Douar Tikni C.R. Haouzia, El Jadida",El Jadida,33.186737,-8.491092,,,2026-04-23T09:21:25.541007
+283,Station Service INOV SIDI BOUZID,Autre,"6C5P+VRF Station Service INOV SIDI BOUZID, Route de Oualidia, El Jadida",El Jadida,33.209581,-8.562715,,,2026-04-23T09:21:25.541012
+284,TotalEnergies AL FATH,TotalEnergies,"Av. Mohamed V, El Jadida",El Jadida,33.241771,-8.497704,,,2026-04-23T09:21:25.541016
+285,Total service station Doukkala,TotalEnergies,"Route Marrakech, Avenue Bir Anzarane, Bd Bir Anzarane, El Jadida",Marrakech,33.234503,-8.493511,,,2026-04-23T09:21:25.541019
+286,Station Service Winxo,Winxo,"6GR2+VXP Station Service Winxo, Av. Al Massira Al Khadra, El Jadida",El Jadida,33.242214,-8.497533,,,2026-04-23T09:21:25.541024
+287,Station petrom +coffee,Autre,"6GC4+5XP Station petrom +coffee, El Jadida",El Jadida,33.220459,-8.492532,,,2026-04-23T09:21:25.541029
+288,Station Service Green Oil,Autre,"5GW4+9F4 Station Service Green Oil, El Jadida",El Jadida,33.195892,-8.493793,,,2026-04-23T09:21:25.541033
+289,Afriquia EL JADIDA CENTER,Afriquia,"272 Av. Mohamed V, El Jadida 24000",El Jadida,33.241952,-8.498758,,,2026-04-23T09:21:25.541037
+290,TotalEnergies MELLALIA,TotalEnergies,"N8 Sortie Beni Mellal Vers Marrakech, Ajdir 23000",Marrakech,32.296432,-6.423821,,,2026-04-23T09:21:25.541040
+291,Shell,Shell,"N8، Shell, Km 3 Route De Marrakech، Beni-Mellal 23000",Marrakech,32.321253,-6.38301,,,2026-04-23T09:21:25.541045
+292,TotalEnergies BENI MELLAL,TotalEnergies,"Boulevard Mohammed V Centre Aguelmous, Rte Regionale N° 407, Béni Mellal 23000",Autre,32.334636,-6.357702,,,2026-04-23T09:21:25.541057
+293,Station Service Shell,Shell,"K2 5, Station Service Shell، P3222 Route Secondaire 1677، Route Fkih Ben Saleh, Beni-Mellal 23000",Autre,32.339968,-6.397192,,,2026-04-23T09:21:25.541072
+294,TotalEnergies ROCADE BENI MELLAL,TotalEnergies,"9MG9+24 TotalEnergies ROCADE BENI MELLAL, Béni Mellal",Beni Mellal,32.375031,-6.332235,,,2026-04-23T09:21:25.541081
+295,ziz,Autre,Beni-Mellal,Autre,32.36304,-6.330606,,,2026-04-23T09:21:25.541087
+296,TotalEnergies EL AZIZ,TotalEnergies,"N, TotalEnergies EL AZIZ, Au Pk 16, 8 Route N 3228, Béni Mellal 23000",Autre,32.342443,-6.375799,,,2026-04-23T09:21:25.541098
+297,Afriquia ACIMA BENI MELLAL,Afriquia,N8 Boulevard Mohamed V، Beni-Mellal 25020,Autre,32.323472,-6.380717,,,2026-04-23T09:21:25.541108
+298,Petromin oils,Petromin,"Petromin oils، ANGLE RTE NATIONALE N° 08 RTE REGIONALE N°, P3225, Beni-Mellal",Autre,32.374164,-6.327613,,,2026-04-23T09:21:25.541120
+299,Stations-service Petrom Bd Mohammed V,Petromin,"8JMV+Q6H Stations-service Petrom Bd Mohammed V, Béni Mellal",Autre,32.334445,-6.356886,,,2026-04-23T09:21:25.541130
+300,Station Service Petrom,Petromin,"n° 8, sortie, Station Service Petrom, vers Marrakech, Route nationale, Béni Mellal",Marrakech,32.297237,-6.42089,,,2026-04-23T09:21:25.541136
+301,Station-service Winxo Palais mhijir,Winxo,"9MCC+4CF Station-service Winxo Palais mhijir, Beni-Mellal",Autre,32.370304,-6.32895,,,2026-04-23T09:21:25.541142
+302,Station Service Shell,Shell,"9M58+7PG Station Service Shell, N8, Béni Mellal",Autre,32.358189,-6.33316,,,2026-04-23T09:21:25.541151
+303,Station Service Ziz,Autre,Béni Mellal,Autre,32.330078,-6.422074,,,2026-04-23T09:21:25.541158
+304,محطة توتال,Autre,"محطة توتال، N 8 RN 8 à l'entrée de l'aéroport de, Béni Mellal 23000",Autre,32.391652,-6.329973,,,2026-04-23T09:21:25.541170
+305,Afriquia ACIMA BENI MELLAL,Afriquia,"Afriquia ACIMA BENI MELLAL، Rte de Khouribga، Boulevard Mohamed V, Beni-Mellal 23000",Beni Mellal,32.323477,-6.380722,,,2026-04-23T09:21:25.541181
+306,Stations-service Afriquia Béni Mellal 1,Afriquia,"N8 Boulevard Mohammed V, Béni Mellal 25020",Autre,32.323472,-6.380717,,,2026-04-23T09:21:25.541190
+307,Afriquia GARE ROUTIERE BENI MELLAL,Afriquia,"Afriquia GARE ROUTIERE BENI MELLAL، A Coté De La، N8 Bvd 20، Gare Routière, Beni-Mellal 25020",Beni Mellal,32.343806,-6.359754,,,2026-04-23T09:21:25.541203
+308,Station Petromin (Al Menzeh),Petromin,"8H5W+QRC Station Petromin (Al Menzeh), Beni-Mellal",Autre,32.309443,-6.402979,,,2026-04-23T09:21:25.541211
+309,Afriquia AEROPORT BENI MELLAL,Afriquia,"Afriquia AEROPORT BENI MELLAL، N8 Pk 452+300 Kasabt Tadla Beni Mellal, Oulad Yaich 25020",Beni Mellal,32.396202,-6.331422,,,2026-04-23T09:21:25.541223
+310,Station Service Winxo,Winxo,"53JC+5H3 Station Service Winxo, Nador",Nador,35.180377,-2.92857,,10.0,2026-04-23T09:21:25.541228
+311,Lavage Bleu Self Service 24/7,Autre,"43FF+7RM Lavage Bleu Self Service 24/7, Nador",Nador,35.123727,-2.925496,,,2026-04-23T09:21:25.541233
+312,Shell,Shell,"Shell، Boulevard Mohammed V، Rue Jerada, Zeghanghane 62000",Autre,35.154071,-2.983139,,,2026-04-23T09:21:25.541255
+313,Afriquia MARJANE NADOR,Afriquia,"Commune Rurale De Bouereg، N15, Nador 34000",Nador,35.123945,-2.92534,,,2026-04-23T09:21:25.541264
+314,TotalEnergies TAOURIRT SEBT,TotalEnergies,"vers, R610 Route De Nador, Segangan 34000",Nador,35.156456,-2.975244,,,2026-04-23T09:21:25.541269
+315,ZIZ Service Station NADOR,Autre,"N19, Nador",Nador,35.132586,-2.922823,,,2026-04-23T09:21:25.541273
+316,أقبوش نعمر نتسات,Autre,"Rue JEMAA GDIMA, Nador",Nador,35.174807,-2.944662,,,2026-04-23T09:21:25.541278
+317,TotalEnergies AHALLAL,TotalEnergies,"N15 Route De Nador Mellilia, Beni Ensar I Aït Nsar 34000",Nador,35.247572,-2.93818,,,2026-04-23T09:21:25.541288
+318,Gare Routière de Nador,Autre,"43FG+W2V Gare Routière de Nador, Nador",Nador,35.124853,-2.924953,,,2026-04-23T09:21:25.541296
+319,CTM Nador,Autre,"Rue General Meziane, Nador",Nador,35.178403,-2.926428,,,2026-04-23T09:21:25.541301
+320,Station Service Winxo,Winxo,"5232+X69 Station Service Winxo, Zeghanghane",Autre,35.154909,-2.999383,,,2026-04-23T09:21:25.541306
+321,Station Service Petromin Oils,Petromin,"5X59+G5H Station Service Petromin Oils, Iaallatan",Autre,35.158816,-3.032021,,,2026-04-23T09:21:25.541313
+322,Gare du train Nador sud,Autre,"527R+87R Route segangan, R610, Nador 62020",Nador,35.163312,-2.959312,,,2026-04-23T09:21:25.541318
+323,TotalEnergies MARCHICA,TotalEnergies,"N15 Pk 12 Route Nador, Selouane 34000",Nador,35.086116,-2.934587,,,2026-04-23T09:21:25.541323
+324,Station Service Afriquia,Afriquia,Sortie، N19 Route De Taouima، Nador 34000,Nador,35.146096,-2.92727,,,2026-04-23T09:21:25.541333
+325,Afriquia NADOR 2,Afriquia,"N15 4، Afriquia NADOR 2, Km Entrée Route، Al Aaroui 62702",Nador,35.040085,-2.969039,,,2026-04-23T09:21:25.541343
+326,الناضور,Autre,"53F8+H8C الناضور, Nador",Nador,35.173947,-2.934237,,,2026-04-23T09:21:25.541350
+327,Station Service Winxo,Winxo,Rocade Méditerranéenne,Autre,35.127116,-2.953937,,,2026-04-23T09:21:25.541357
+328,Shell,Shell,"36 Pk 359, 675، Shell، Av. Taouima Rp، Rue Ibn Nafisse, Nador 62000",Nador,35.158006,-2.930332,,,2026-04-23T09:21:25.541367
+329,Non Ce,Autre,"539C+CXV Non Ce, Nador",Nador,35.168616,-2.927584,,,2026-04-23T09:21:25.541372
+330,Shell,Shell,"Shell، P4022, Témara 12000",Témara,33.87357,-6.978041,,,2026-04-23T09:21:25.541379
+331,Station TOTAL SECOLA,OLA Energy,Témara 12040,Témara,33.868891,-6.973177,,,2026-04-23T09:21:25.541385
+332,Station-service Appollo,Autre,"V2R5+8CJ Station-service Appollo, P4022, Temara",Autre,33.890845,-6.991495,12.8,,2026-04-23T09:21:25.541390
+333,TotalEnergies MERS ELKHEIR,TotalEnergies,"R403 Mers El Kheir, Témara 12000",Témara,33.865585,-6.916168,,,2026-04-23T09:21:25.541398
+334,Afriquia Aïn Atiq,Afriquia,"Km 73, Afriquia Aïn Atiq، Centre, Résidence Riad Ain Atiq، N1, Temara 10150",Autre,33.890666,-6.963873,,,2026-04-23T09:21:25.541412
+335,Station WINXO,Autre,"448 IBN KHALDOUN AIN ATIQ, 12040",Autre,33.871758,-6.975806,,,2026-04-23T09:21:25.541417
+336,Shell Station,Shell,"Shell Station، 1 National Route 1 Route Casa Par Temara Ain Atiq Province, Temara 12000",Autre,33.88373,-6.978494,,,2026-04-23T09:21:25.541432
+337,station winxo,Autre,"V3QH+F63 station winxo, Témara",Témara,33.888631,-6.921962,,,2026-04-23T09:21:25.541440
+338,Station,Autre,"W4G4+C8F Station, P4017, Témara",Témara,33.926064,-6.894219,,10.0,2026-04-23T09:21:25.541448
+339,Shell,Shell,"Shell، Avenida Moulay Ali Cherif, Témara 12000",Témara,33.933691,-6.909626,20.0,,2026-04-23T09:21:25.541457
+340,Station service Appollo Témara,Autre,"Route de sidi yahia, Témara",Témara,33.884279,-6.922345,,,2026-04-23T09:21:25.541464
+341,TotalEnergies Chiga,TotalEnergies,"W485+35V TotalEnergies Chiga, Témara",Témara,33.915567,-6.892452,,,2026-04-23T09:21:25.541472
+342,Station TOTAL Le Rocher,Autre,"Av. Hassan I, Témara 12000",Témara,33.908017,-6.921135,,,2026-04-23T09:21:25.541479
+343,Shell,Shell,"Shell، P4017 Av. Tarik Ibn Ziad, Témara",Témara,33.88675,-6.94171,,,2026-04-23T09:21:25.541488
+344,Station Service Petromin Oils,Petromin,"W335+JRX Station Service Petromin Oils, Av. Hassan II, Témara 12000",Témara,33.904104,-6.940385,,,2026-04-23T09:21:25.541499
+345,Salama Gas Station,Autre,"W28H+79Q Salama Gas Station, Bd Prince Moulay Abdellah, Temara",Autre,33.91572,-6.971512,14.45,,2026-04-23T09:21:25.541506
+346,طوطال,Autre,"طوطال، N1, Témara 10150",Témara,33.921259,-6.921653,,,2026-04-23T09:21:25.541513
+347,TotalEnergies CHBAKI,TotalEnergies,"Yahya, Avenue Hassan I, Rue Sidi Kacem, Témara 12000",Témara,33.901002,-6.921351,,,2026-04-23T09:21:25.541523
+348,TotalEnergies,TotalEnergies,P4016، Temara 10105,Autre,33.901377,-6.902702,,13.89,2026-04-23T09:21:25.541531
+349,Afriquia ACIMA TEMARA,Afriquia,"Afriquia ACIMA TEMARA، Centre، Av. Hassan II, Témara 10150",Témara,33.919699,-6.923651,,,2026-04-23T09:21:25.541542
